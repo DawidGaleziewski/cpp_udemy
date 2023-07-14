@@ -1,1 +1,3 @@
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/3_compiler_errors/main.cpp
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/2_first_program/main.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/1_example_project/main.cpp

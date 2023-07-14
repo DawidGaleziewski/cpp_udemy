@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 1_example_project - Debug ]----------"
-	@cd "1_example_project" && "$(MAKE)" -f  "1_example_project.mk"
+	@echo "----------Building project:[ 3_compiler_errors - Release ]----------"
+	@cd "3_compiler_errors" && "$(MAKE)" -f  "3_compiler_errors.mk"
 clean:
-	@echo "----------Cleaning project:[ 1_example_project - Debug ]----------"
-	@cd "1_example_project" && "$(MAKE)" -f  "1_example_project.mk" clean
+	@echo "----------Cleaning project:[ 3_compiler_errors - Release ]----------"
+	@cd "3_compiler_errors" && "$(MAKE)" -f  "3_compiler_errors.mk" clean

@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="1_first_workspace" Database="" Version="10000">
-  <Project Name="1_example_project" Path="1_example_project/1_example_project.project" Active="Yes"/>
+<CodeLite_Workspace Name="1_first_workspace" Database="" Version="10000" SWTLW="Yes">
+  <WorkspaceParserMacros/>
+  <WorkspaceParserPaths/>
+  <Project Name="1_example_project" Path="1_example_project/1_example_project.project" Active="No"/>
+  <Project Name="2_first_program" Path="2_first_program/2_first_program.project" Active="No"/>
+  <Project Name="3_compiler_errors" Path="3_compiler_errors/3_compiler_errors.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="1_example_project" ConfigName="Debug"/>
+      <Project Name="2_first_program" ConfigName="Debug"/>
+      <Project Name="3_compiler_errors" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="1_example_project" ConfigName="Release"/>
+      <Project Name="2_first_program" ConfigName="Release"/>
+      <Project Name="3_compiler_errors" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
