@@ -1,0 +1,5 @@
+[{
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/1_example_project/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/1_example_project",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/1_example_project/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/1_example_project/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
