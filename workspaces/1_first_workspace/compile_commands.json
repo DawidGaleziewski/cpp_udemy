@@ -1,13 +1,29 @@
 [{
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/5_linker_errors/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/5_linker_errors",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/5_linker_errors/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/5_linker_errors/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/section_challange/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/section_challange",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/section_challange/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/section_challange/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/6_runtime_errors/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/6_runtime_errors",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/6_runtime_errors/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/6_runtime_errors/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/4_compiler_warnings/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/4_compiler_warnings",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/4_compiler_warnings/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/4_compiler_warnings/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/3_compiler_errors/main.cpp",
   "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/3_compiler_errors",
-  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/3_compiler_errors/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/3_compiler_errors/main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/3_compiler_errors/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/3_compiler_errors/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/2_first_program/main.cpp",
   "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/2_first_program",
-  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/2_first_program/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/2_first_program/main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/2_first_program/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/2_first_program/main.cpp.o  -I. -I.  -Wall  -gdwarf-2  -O0"
  }, {
   "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/1_example_project/main.cpp",
   "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/1_example_project",
-  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/1_example_project/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/1_example_project/main.cpp.o  -DNDEBUG -I. -I.  -O2  -Wall"
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/1_example_project/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/1_example_project/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }]

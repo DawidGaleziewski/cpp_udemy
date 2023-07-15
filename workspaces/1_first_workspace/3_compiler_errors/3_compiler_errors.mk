@@ -2,10 +2,10 @@
 ## Auto Generated makefile by CodeLite IDE
 ## any manual changes will be erased      
 ##
-## Release
+## Debug
 ProjectName            :=3_compiler_errors
-ConfigurationName      :=Release
-WorkspaceConfiguration :=Release
+ConfigurationName      :=Debug
+WorkspaceConfiguration :=Debug
 WorkspacePath          :=/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace
 ProjectPath            :=/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/3_compiler_errors
 IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/3_compiler_errors
@@ -31,7 +31,7 @@ PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
 OutputDirectory        :=/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/build-$(WorkspaceConfiguration)/bin
 OutputFile             :=../build-$(WorkspaceConfiguration)/bin/$(ProjectName)
-Preprocessors          :=$(PreprocessorSwitch)NDEBUG 
+Preprocessors          :=
 ObjectSwitch           :=-o 
 ArchiveOutputSwitch    := 
 PreprocessOnlySwitch   :=-E 
@@ -52,8 +52,8 @@ LibPath                := $(LibraryPathSwitch).
 AR       := ar rcus
 CXX      := g++
 CC       := gcc
-CXXFLAGS :=  -O2 -Wall $(Preprocessors)
-CFLAGS   :=  -O2 -Wall $(Preprocessors)
+CXXFLAGS :=  -gdwarf-2 -O0 -Wall $(Preprocessors)
+CFLAGS   :=  -gdwarf-2 -O0 -Wall $(Preprocessors)
 ASFLAGS  := 
 AS       := as
 

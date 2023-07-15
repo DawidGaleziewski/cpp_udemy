@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/1_first_workspace.workspace">
-  <int Value="0" Name="m_selectedTab"/>
+  <int Value="2" Name="m_selectedTab"/>
   <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/1_first_workspace.workspace" Name="m_workspaceName"/>
-  <TabInfoArray Name="TabInfoArray"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/1_example_project/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/2_first_program/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="12" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/1_first_workspace/3_compiler_errors/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="9" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
   <SerializedObject Name="m_breakpoints">
     <long Value="0" Name="Count"/>
   </SerializedObject>

@@ -4,19 +4,31 @@
   <WorkspaceParserPaths/>
   <Project Name="1_example_project" Path="1_example_project/1_example_project.project" Active="No"/>
   <Project Name="2_first_program" Path="2_first_program/2_first_program.project" Active="No"/>
-  <Project Name="3_compiler_errors" Path="3_compiler_errors/3_compiler_errors.project" Active="Yes"/>
+  <Project Name="3_compiler_errors" Path="3_compiler_errors/3_compiler_errors.project" Active="No"/>
+  <Project Name="4_compiler_warnings" Path="4_compiler_warnings/4_compiler_warnings.project" Active="No"/>
+  <Project Name="5_linker_errors" Path="5_linker_errors/5_linker_errors.project" Active="No"/>
+  <Project Name="6_runtime_errors" Path="6_runtime_errors/6_runtime_errors.project" Active="No"/>
+  <Project Name="section_challenge" Path="section_challange/section_challange.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="1_example_project" ConfigName="Debug"/>
       <Project Name="2_first_program" ConfigName="Debug"/>
       <Project Name="3_compiler_errors" ConfigName="Debug"/>
+      <Project Name="4_compiler_warnings" ConfigName="Debug"/>
+      <Project Name="5_linker_errors" ConfigName="Debug"/>
+      <Project Name="6_runtime_errors" ConfigName="Debug"/>
+      <Project Name="section_challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="1_example_project" ConfigName="Release"/>
       <Project Name="2_first_program" ConfigName="Release"/>
       <Project Name="3_compiler_errors" ConfigName="Release"/>
+      <Project Name="4_compiler_warnings" ConfigName="Release"/>
+      <Project Name="5_linker_errors" ConfigName="Release"/>
+      <Project Name="6_runtime_errors" ConfigName="Release"/>
+      <Project Name="section_challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
