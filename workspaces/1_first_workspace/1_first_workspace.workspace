@@ -8,7 +8,9 @@
   <Project Name="4_compiler_warnings" Path="4_compiler_warnings/4_compiler_warnings.project" Active="No"/>
   <Project Name="5_linker_errors" Path="5_linker_errors/5_linker_errors.project" Active="No"/>
   <Project Name="6_runtime_errors" Path="6_runtime_errors/6_runtime_errors.project" Active="No"/>
-  <Project Name="section_challenge" Path="section_challange/section_challange.project" Active="Yes"/>
+  <Project Name="section_challenge" Path="section_challange/section_challange.project" Active="No"/>
+  <Project Name="7_main_function" Path="7_main_function/7_main_function.project" Active="No"/>
+  <Project Name="8_basic_IO" Path="8_basic_IO/8_basic_IO.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -19,6 +21,8 @@
       <Project Name="5_linker_errors" ConfigName="Debug"/>
       <Project Name="6_runtime_errors" ConfigName="Debug"/>
       <Project Name="section_challenge" ConfigName="Debug"/>
+      <Project Name="7_main_function" ConfigName="Debug"/>
+      <Project Name="8_basic_IO" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -29,6 +33,8 @@
       <Project Name="5_linker_errors" ConfigName="Release"/>
       <Project Name="6_runtime_errors" ConfigName="Release"/>
       <Project Name="section_challenge" ConfigName="Release"/>
+      <Project Name="7_main_function" ConfigName="Release"/>
+      <Project Name="8_basic_IO" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
