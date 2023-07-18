@@ -22,10 +22,43 @@ void basic_variables(){
       
 }
 
+void primitive_types(){
+    // Size and precision of primitive types is very often machine and complire dependant. C++ programmers need to be aware of device they program for
+    // #include<climits> contains information regards the size for a given compiler
+    
+    // char. We have multiple chars as some spoken languages have thousends of characters
+    char english_char {'C'}; // it is 8 bits and usually it is enough
+    char16_t lating_char {'O'};
+    char32_t suachili_char {'O'};
+    wchar_t mandarin_char {'K'}; // can represent largest character set
+    
+    // int - whole numbers. Singend and unsign
+    // 8 bits represents 256
+    // we do not need to use signed keyword or int as by default c++ will use signed
+    unsigned short int small_num {6553}; // at least 16 bits
+    unsigned int small_int_2 {6553};
+    unsigned long int large_num {429496729};
+    unsigned long long int large_large_num {10};
+    
+    signed short int negative_small_num {-6553};
+    signed int negative_small_num_2 {-65535};
+    signed long int very_negative_num {-4294967295};
+    signed long long int very_very_negative_num {-10};
+    
+    // floats
+    // double
+    // long double
+    float grade = 0.1;
+    double price = 5.15;
+    
+    // bolans
+    bool is_online = true;
+}
+
 int main(int argc, char **argv)
 {
     basic_variables();
-    
+    primitive_types();
     
     std::cout << "Enter room width" << std::endl;
     int room_width {0}; // declaring variables as close as we can to its first use is also considered a good practice
