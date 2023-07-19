@@ -55,11 +55,7 @@ void primitive_types(){
     bool is_online = true;
 }
 
-int main(int argc, char **argv)
-{
-    basic_variables();
-    primitive_types();
-    
+void general_info(){
     std::cout << "Enter room width" << std::endl;
     int room_width {0}; // declaring variables as close as we can to its first use is also considered a good practice
     std::cin >> room_width;
@@ -68,7 +64,45 @@ int main(int argc, char **argv)
     int room_length {0};
     std::cin >> room_length;
     
-    std::cout << "The area of the room is " << room_length * room_width << " square feet" << std::endl;
+    std::cout << "The area of the room is " << room_length * room_width << " square feet" << std::endl;    
+}
+
+void primitive_types_from_video(){
+    char initial {'D'};
+    std::cout << "My initial is " << initial << std::endl;
+    
+    unsigned short int exam_score {55};
+    std::cout << "My exam score was " << exam_score << std::endl;
+    
+    long people_in_florida {26000000};
+    std::cout << "There are " << people_in_florida << " people in florida" << std::endl;
+    
+    long long people_on_earth {7'600'000'000}; //c++ 14 allows ' to be used to help read the value
+    std::cout << "There are " << people_on_earth << " people on earth" << std::endl;
+    
+    float car_payment {401.23};
+    std::cout << "My car payment is " << car_payment << std::endl;
+    
+    double pi {3.14159};
+    std::cout << "PI is " << pi << std::endl;
+    
+    bool is_game_over {false}; //cpp will print out 0 as false and 1 as true
+    std::cout << "Value of game over is " << is_game_over << std::endl;
+}
+
+void overflow_example(){
+        short int value1 {30000};
+        short int value2 {1000};
+        long int product {value1 * value2};
+        std::cout << "Sum of " << "value 1: " << value1 <<  " and " << "value 2: " << value2 << " is " << product << std::endl;
+}
+
+int main(int argc, char **argv)
+{
+//    general_info();
+//    basic_variables();
+//    primitive_types();
+    primitive_types_from_video();
     
 	return 0;
 }
