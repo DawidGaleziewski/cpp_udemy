@@ -1,4 +1,6 @@
 #include <iostream>
+#include <climits>
+#include <cfloat>
 
 // global variables
 int age {0}; // all functions have access to this. If we have two variables like this, the one closer in scope will be used (just like in JS)
@@ -93,16 +95,63 @@ void primitive_types_from_video(){
 void overflow_example(){
         short int value1 {30000};
         short int value2 {1000};
-        long int product {value1 * value2};
+        long int product {value1 * value2}; // would have to use short but my complier was to smart and wont allow it recognising this would be an error :)
         std::cout << "Sum of " << "value 1: " << value1 <<  " and " << "value 2: " << value2 << " is " << product << std::endl;
 }
+
+void size_of_variable(){
+  // determines the size in bytes of a type or variable  
+  sizeof(int); // shows a size in bits on specific device we are running the compiler on
+  int some_variable {5};
+  sizeof(some_variable);
+  
+  // those numbers will vary depending on compiler and operating system bytes
+  std::cout << "Size of int is: " << sizeof(int) << std::endl;
+  std::cout << "Size of int variable is: " << sizeof(some_variable) << std::endl;
+  std::cout << "Size of short variable is: " << sizeof(long) << std::endl;
+  std::cout << "============================" << std::endl;
+  
+  // we can also check a limit of specific types on machine
+  std::cout << "Minimum values: " << std::endl;
+  std::cout << "For char: " << CHAR_MIN << std::endl;
+  std::cout << "For int: " << INT_MIN << std::endl;
+  std::cout << "For short: " << SHRT_MIN << std::endl;
+  std::cout << "For long: " << LONG_MIN << std::endl;
+  std::cout << "For long long: " << LLONG_MIN << std::endl;
+  std::cout << "============================" << std::endl;
+  
+  std::cout << "Maximum values: " << std::endl;
+  std::cout << "For char: " << CHAR_MAX << std::endl;
+  std::cout << "For int: " << INT_MAX << std::endl;
+  std::cout << "For short: " << SHRT_MAX << std::endl;
+  std::cout << "For long: " << LONG_MAX << std::endl;
+  std::cout << "For long long: " << LLONG_MAX << std::endl;
+  std::cout << "============================" << std::endl;
+}
+
+void constants(){
+    // literal constants
+    // we can declare the type in literals using suffixes
+    x = 20UL; // unsigned long
+    y = 12.1F; // float
+    new_line_const = \n //we can also keep character literal contstants with escape codes
+    
+    // declared constant
+    const int no_of_months = 12; // cant be changed
+    
+    // define constants !USED IN ONLD C++. DO NOT USE
+    #define pi 3.141;
+}
+
+
 
 int main(int argc, char **argv)
 {
 //    general_info();
 //    basic_variables();
 //    primitive_types();
-    primitive_types_from_video();
-    
+//    primitive_types_from_video();
+//    size_of_variable(); 
+    constants();
 	return 0;
 }
