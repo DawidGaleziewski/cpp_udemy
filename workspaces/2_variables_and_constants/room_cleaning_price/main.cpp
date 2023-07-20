@@ -1,18 +1,21 @@
 #include <iostream>
+using namespace std;
 
 int main(int argc, char **argv)
 {
-    const int price_per_room = 30;
-    const float sales_tax = 3.6;
-    unsigned short int number_of_rooms {0};
+    const double price_per_room {30.00};
+    const double sales_tax {0.06};
 	
-    std::cout << "provide number of rooms:"  << std::endl;
-    std::cin >> number_of_rooms;
-    std::cout << "number of rooms: " << number_of_rooms << std::endl;
+    cout << "Hello this is Tom room cleaning service"  << endl << endl;
+    cout << "provide number of rooms:"  << endl;
     
-    std::cout << "price per room: "  << price_per_room << std::endl;
-    std::cout << "cost: "  << price_per_room * number_of_rooms << std::endl;
-    std::cout << "tax: "  << price_per_room * number_of_rooms * sales_tax << std::endl;
-    std::cout << "total: "  << (price_per_room * number_of_rooms) +  (price_per_room * number_of_rooms) * sales_tax << std::endl;
+    int number_of_rooms = 0;
+    cin >> number_of_rooms;
+    cout << "number of rooms: " << number_of_rooms << endl;
+    
+    cout << "price per room: "  << price_per_room << endl;
+    cout << "cost: "  << price_per_room * number_of_rooms << endl;
+    cout << "tax: "  << price_per_room * number_of_rooms * sales_tax << endl;
+    cout << "\ntotal: "  << (price_per_room * number_of_rooms) +  (price_per_room * number_of_rooms) * sales_tax << endl;
 	return 0;
 }
