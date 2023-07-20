@@ -1,4 +1,8 @@
 [{
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/2_variables_and_constants/room_cleaning_price/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/2_variables_and_constants/room_cleaning_price",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/2_variables_and_constants/room_cleaning_price/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/2_variables_and_constants/room_cleaning_price/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }, {
   "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/2_variables_and_constants/1_basic_variables_and_primitive_types/main.cpp",
   "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/2_variables_and_constants/1_basic_variables_and_primitive_types",
   "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/2_variables_and_constants/1_basic_variables_and_primitive_types/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/2_variables_and_constants/1_basic_variables_and_primitive_types/main.cpp.o  -I. -I.  -Wall  -gdwarf-2  -O0  -std=c++17"

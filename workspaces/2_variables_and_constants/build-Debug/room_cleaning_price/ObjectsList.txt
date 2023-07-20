@@ -1,0 +1,1 @@
+../build-Debug/room_cleaning_price/main.cpp.o

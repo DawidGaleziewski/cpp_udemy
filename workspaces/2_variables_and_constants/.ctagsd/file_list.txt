@@ -1,1 +1,2 @@
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/2_variables_and_constants/room_cleaning_price/main.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/2_variables_and_constants/1_basic_variables_and_primitive_types/main.cpp

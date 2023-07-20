@@ -2,15 +2,18 @@
 <CodeLite_Workspace Name="2_variables_and_constants" Database="" Version="10000" SWTLW="Yes">
   <WorkspaceParserMacros/>
   <WorkspaceParserPaths/>
-  <Project Name="1_basic_variables_and_primitive_types" Path="1_basic_variables_and_primitive_types/1_basic_variables_and_primitive_types.project" Active="Yes"/>
+  <Project Name="1_basic_variables_and_primitive_types" Path="1_basic_variables_and_primitive_types/1_basic_variables_and_primitive_types.project" Active="No"/>
+  <Project Name="room_cleaning_price" Path="room_cleaning_price/room_cleaning_price.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="1_basic_variables_and_primitive_types" ConfigName="Debug"/>
+      <Project Name="room_cleaning_price" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="1_basic_variables_and_primitive_types" ConfigName="Release"/>
+      <Project Name="room_cleaning_price" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
