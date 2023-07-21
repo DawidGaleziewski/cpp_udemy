@@ -1,0 +1,5 @@
+[{
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/3_array_and_vectors/1_arrays/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/3_array_and_vectors/1_arrays",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/3_array_and_vectors/1_arrays/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/3_array_and_vectors/1_arrays/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }]
