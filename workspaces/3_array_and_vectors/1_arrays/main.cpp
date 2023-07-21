@@ -43,6 +43,8 @@ int main(int argc, char **argv)
     std::cout << " firtst vowel: " << vowels[0] << " last vowel: " << vowels[2] << std::endl;
     
     // storing a character in a place where there is nothing
-    std::cout >> vowels[5];
+    
+    // dependigng on OS this may have diffrent consequences. We can crash the program as we do not know what is in this space
+    //  std::cin >> vowels[5];
     return 0;
 }
