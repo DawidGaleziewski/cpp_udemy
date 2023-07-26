@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="4_statements_and_operators" Database="" Version="10000">
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,8 +1,7 @@
 #include <iostream>
 
-int main(int argc, char **argv)
-{
-	// array - compound data type of same type elements
+void array_basics(){
+    	// array - compound data type of same type elements
     // arrays are of fixed size
     // stored continguously in memory
     // very efficient! :)
@@ -46,5 +45,33 @@ int main(int argc, char **argv)
     
     // dependigng on OS this may have diffrent consequences. We can crash the program as we do not know what is in this space
     //  std::cin >> vowels[5];
+    
+    // the name of the array is the location of the array
+    std::string guest_list[5]{"Mike", "Tammy"}; // prints 0x16b96a738
+    // i.e array starts at address 1000. so guest_list = 1000. Each int is 4 bytes so we know place 1004 is index 1, 1008 is index 2 etc. 
+    // Therefore name_of_array + type of item *index = adres of the item we want to access
+    
+    std::cout << "Array name is: " << guest_list << std::endl;
+}
+
+int main(int argc, char **argv)
+{
+    array_basics();
+    
+    // declaring a multidementional array
+    int geo_spatial_data [50][2]; 
+    
+    // useful to representing spreadsheet like data
+    const int rows {3};
+    const int cols {4};
+    
+    // we have multiple rows (i.e film reviewers) where each has to rate 4 movies - columns.
+    // same syntax is used for initializing multi-dementional arrays
+    int movie_ratings [rows][cols] {
+        {0, 4, 3, 5},
+        {2, 3, 3, 1},
+        {5, 5, 5, 5}
+    };
+    
     return 0;
 }

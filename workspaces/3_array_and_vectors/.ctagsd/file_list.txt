@@ -1,1 +1,3 @@
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/3_array_and_vectors/basic_operation_challenge/main.cpp
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/3_array_and_vectors/2_vectors/main.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/3_array_and_vectors/1_arrays/main.cpp

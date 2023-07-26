@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/3_array_and_vectors/3_array_and_vectors.workspace">
-  <int Value="0" Name="m_selectedTab"/>
+  <int Value="2" Name="m_selectedTab"/>
   <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/3_array_and_vectors/3_array_and_vectors.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
       <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/3_array_and_vectors/1_arrays/main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="21" Name="CurrentLine"/>
+      <int Value="15" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/3_array_and_vectors/2_vectors/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="40" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/3_array_and_vectors/basic_operation_challenge/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="24" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 1_arrays - Debug ]----------"
-	@cd "1_arrays" && "$(MAKE)" -f  "1_arrays.mk"
+	@echo "----------Building project:[ basic_operation_challenge - Debug ]----------"
+	@cd "basic_operation_challenge" && "$(MAKE)" -f  "basic_operation_challenge.mk"
 clean:
-	@echo "----------Cleaning project:[ 1_arrays - Debug ]----------"
-	@cd "1_arrays" && "$(MAKE)" -f  "1_arrays.mk" clean
+	@echo "----------Cleaning project:[ basic_operation_challenge - Debug ]----------"
+	@cd "basic_operation_challenge" && "$(MAKE)" -f  "basic_operation_challenge.mk" clean
