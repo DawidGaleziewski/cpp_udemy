@@ -1,0 +1,9 @@
+[{
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/2_operators/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/2_operators",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/2_operators/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/2_operators/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/expression_statments/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/expression_statments",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/expression_statments/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/expression_statments/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

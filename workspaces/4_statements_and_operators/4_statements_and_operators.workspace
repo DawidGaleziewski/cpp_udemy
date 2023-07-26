@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="4_statements_and_operators" Database="" Version="10000">
+<CodeLite_Workspace Name="4_statements_and_operators" Database="" Version="10000" SWTLW="Yes">
+  <WorkspaceParserMacros/>
+  <WorkspaceParserPaths/>
+  <Project Name="1_expressons_and_statments" Path="expression_statments/expression_statments.project" Active="No"/>
+  <Project Name="2_operators" Path="2_operators/2_operators.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
+      <Project Name="1_expressons_and_statments" ConfigName="Debug"/>
+      <Project Name="2_operators" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
+      <Project Name="1_expressons_and_statments" ConfigName="Release"/>
+      <Project Name="2_operators" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
