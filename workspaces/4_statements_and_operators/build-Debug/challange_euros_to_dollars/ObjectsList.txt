@@ -1,0 +1,1 @@
+../build-Debug/challange_euros_to_dollars/main.cpp.o
