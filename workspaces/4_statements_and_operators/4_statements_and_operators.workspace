@@ -3,20 +3,23 @@
   <WorkspaceParserMacros/>
   <WorkspaceParserPaths/>
   <Project Name="1_expressons_and_statments" Path="expression_statments/expression_statments.project" Active="No"/>
-  <Project Name="2_operators" Path="2_operators/2_operators.project" Active="Yes"/>
+  <Project Name="2_operators" Path="2_operators/2_operators.project" Active="No"/>
   <Project Name="challange_euros_to_dollars" Path="challange_euros_to_dollars/challange_euros_to_dollars.project" Active="No"/>
+  <Project Name="3_mixed_expressions_and_conversions" Path="3_mixed_expressions_and_conversions/3_mixed_expressions_and_conversions.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="1_expressons_and_statments" ConfigName="Debug"/>
       <Project Name="2_operators" ConfigName="Debug"/>
       <Project Name="challange_euros_to_dollars" ConfigName="Debug"/>
+      <Project Name="3_mixed_expressions_and_conversions" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="1_expressons_and_statments" ConfigName="Release"/>
       <Project Name="2_operators" ConfigName="Release"/>
       <Project Name="challange_euros_to_dollars" ConfigName="Release"/>
+      <Project Name="3_mixed_expressions_and_conversions" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

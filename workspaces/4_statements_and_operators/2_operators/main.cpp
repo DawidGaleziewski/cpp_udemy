@@ -57,5 +57,19 @@ int main(int argc, char **argv)
     result = changing_num++; //!important changing num will still be 1 but result will be 0! this is result = changing_num. Post inrement will increment the number AFTER returning the value of changing_num to result
     cout << "changing num after increment prefix is - for result: " << result << " for changing_num: " << changing_num << endl;
     
+    
+    // pre increment with addition
+    result = 0;
+    changing_num = 0;
+    result = ++changing_num + 10; // we will increment change_num and then add 10
+    
+    cout << "pre increment with addition result: " << result << endl; // result is 11
+    
+    // post increment with additon
+    result = 0;
+    changing_num = 0;
+    result = changing_num++ + 10; // this first does addition and after we use it we increment
+    cout << "post increment with addition result: " << result << endl; // result is 10
+    
     return 0;
 }

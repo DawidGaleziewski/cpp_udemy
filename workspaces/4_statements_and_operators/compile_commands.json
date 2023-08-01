@@ -1,4 +1,8 @@
 [{
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/3_mixed_expressions_and_conversions/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/3_mixed_expressions_and_conversions",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/3_mixed_expressions_and_conversions/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/3_mixed_expressions_and_conversions/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }, {
   "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/challange_euros_to_dollars/main.cpp",
   "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/challange_euros_to_dollars",
   "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/challange_euros_to_dollars/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/challange_euros_to_dollars/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
