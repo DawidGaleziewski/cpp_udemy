@@ -1,4 +1,6 @@
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/section_challenge/main.cpp
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/2_operators/main.cpp
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/4_equality_operator/main.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/3_mixed_expressions_and_conversions/main.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/challange_euros_to_dollars/main.cpp
-/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/2_operators/main.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/4_statements_and_operators/expression_statments/main.cpp

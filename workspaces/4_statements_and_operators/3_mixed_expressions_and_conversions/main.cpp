@@ -2,9 +2,8 @@
 
 using namespace std;
 
-int main(int argc, char **argv)
-{
-	//c++ will attempt coercion when using mixed types, just like js
+ void basic_type_coorcion(){
+     	//c++ will attempt coercion when using mixed types, just like js
     
     // higher vs lower type
     // higher types are types that can store more ie long double is higher then float
@@ -26,5 +25,27 @@ int main(int argc, char **argv)
     int simple_num {0};
     simple_num = 5.2;
     cout << "simple num is now: " << simple_num << endl; // it will be converted to 5
-	return 0;
 }
+
+void type_casting(){
+    double average {0.0};
+    int total_ammount {100};
+    int total_number {12};
+    
+    average = total_ammount / total_number; // despiite us declaring average as double it was demoted to int
+    cout << "average is now: " << average << endl;
+    
+    average = static_cast<double>(total_ammount) / total_number; // when using static cast it will covert to double
+    // trivia, there is also old c style cast with syntax similar to java
+    average = (double)total_ammount/ total_number;
+    cout << "average when used casting is now: " << average << endl;
+}
+
+int main(int argc, char **argv)
+{
+//    basic_type_coorcion();
+    type_casting();
+    return 0;
+}
+
+
