@@ -1,0 +1,9 @@
+[{
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/5_control_flow/loops/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/5_control_flow/loops",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/5_control_flow/loops/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/5_control_flow/loops/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/5_control_flow/switch_statments/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/5_control_flow/switch_statments",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/5_control_flow/switch_statments/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/5_control_flow/switch_statments/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }]
