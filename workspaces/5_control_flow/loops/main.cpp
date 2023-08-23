@@ -1,6 +1,9 @@
 #include <iostream>
+#include<vector>
 
 using namespace std;
+
+
 
 void simple_for_loops(){
     // nothing special about c++ for loops. They are efficient and scoped.
@@ -25,10 +28,43 @@ void simple_for_loops(){
       cout << "i and k are: " << i << " , " << k  << endl;
     };
     
+    // it is much easier to work with vectors
+    vector<int> nums{10,20,30,50};
+    for(unsigned i{0}; i < nums.size(); ++i){ // it makes sense to use unsigned as we compare int that will be always unsigned with int that could be signed
+        cout << "Vecor item is: " << nums[i] << endl;
+    }
+    
 };
+
+void range_base_for_loop(){
+    int scores []{50,90,70};
+    
+    for (int score: scores){
+        cout << score << endl;
+    };
+    
+    // we can also use auto. C++ will deduce the type
+    for (auto score: scores){
+        cout << score << endl;
+    };
+    
+    // when we need to sum something
+    vector<double> temperatures{87.2, 77.1, 80.0, 66.0};
+    
+    double average_temperature {};
+    double running_sum {};
+    
+    for (auto temp: temperatures)
+        running_sum += temp;
+    
+    average_temperature = running_sum / temperatures.size();
+    cout << "average temp is: " << average_temperature << endl;
+    
+}
 
 int main(int argc, char **argv)
 {
-	simple_for_loops();
+//	simple_for_loops();
+    range_base_for_loop();
 	return 0;
 }
