@@ -50,7 +50,6 @@ void range_base_for_loop(){
     
     // when we need to sum something
     vector<double> temperatures{87.2, 77.1, 80.0, 66.0};
-    
     double average_temperature {};
     double running_sum {};
     
@@ -60,11 +59,53 @@ void range_base_for_loop(){
     average_temperature = running_sum / temperatures.size();
     cout << "average temp is: " << average_temperature << endl;
     
+    // we can even iterate on literals
+    for (auto c: "This is a test"){
+          if(c != ' '){
+            cout << c;
+        }
+        
+    }
+    cout << endl;
+    
+    
+}
+
+void while_loops() {
+    
+    int num {0};
+    
+    while (num <= 100){
+        cout << "Enter integer larger then 100:" << endl;
+        cin >> num;
+    }
+}
+
+int count_numbers(const vector<int> &vec){
+    //---- WRITE YOUR CODE BELOW THIS LINE----
+    signed int i{0};
+    bool was_not_found {true};
+    
+    while(i < vec.size() && was_not_found){
+        if(vec[i] == -99){
+            was_not_found = false;
+        } else {
+            i++;
+        }
+    }
+    
+    int count {i};
+    
+    //---- WRITE YOUR CODE ABOVE THIS LINE----
+    //---- DO NOT MODIFY THE CODE BELOW THIS LINE-----
+    return count;
 }
 
 int main(int argc, char **argv)
 {
 //	simple_for_loops();
-    range_base_for_loop();
+//    range_base_for_loop();
+//    while_loops();
+    cout << "response: " << count_numbers(vector<int>{-99}) << endl;
 	return 0;
 }
