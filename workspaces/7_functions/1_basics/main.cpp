@@ -22,8 +22,9 @@ void pass_by_value(vector<string> name_list){
     cout << "Inside fn name_list 2nd item is: " << name_list.at(2) << endl; // ass cpp functions are passed by value we will not mutate anything outside this function;
 }
 
-void false_pass_by_value(int numbers[]){ // arrays are exception they WILL NOT GET COPIED. we will pass a referance of first element of the array
+void false_pass_by_value(int numbers[]){ // arrays are exception they WILL NOT GET COPIED. we will pass a referance of first element of the array. The name of the array is holding the location in memory to first index element. We pass by value, but not the values of the array, but its address in memory!
     numbers[2] = 69; // THIS WILL GET MUTATED!
+    // WHY? Cpp will pass what is stored in the array variable. And that is a address of the first index eleemnt ie 2000. We mutate therefore addresses in memory
 }
 
 // we can guard ourselves from not intentionally overriding arrays by using const in param declaration
