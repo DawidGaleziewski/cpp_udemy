@@ -1,0 +1,9 @@
+[{
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/2_dereferencing_pointers/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/2_dereferencing_pointers",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/2_dereferencing_pointers/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/2_dereferencing_pointers/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/1_basics/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/1_basics",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/1_basics/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/1_basics/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }]

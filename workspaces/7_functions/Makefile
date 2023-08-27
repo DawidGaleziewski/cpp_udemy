@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 1_basics - Debug ]----------"
-	@cd "1_basics" && "$(MAKE)" -f  "1_basics.mk"
+	@echo "----------Building project:[ 4_scope_and_static_variables - Debug ]----------"
+	@cd "4_scope_and_static_variables" && "$(MAKE)" -f  "4_scope_and_static_variables.mk"
 clean:
-	@echo "----------Cleaning project:[ 1_basics - Debug ]----------"
-	@cd "1_basics" && "$(MAKE)" -f  "1_basics.mk" clean
+	@echo "----------Cleaning project:[ 4_scope_and_static_variables - Debug ]----------"
+	@cd "4_scope_and_static_variables" && "$(MAKE)" -f  "4_scope_and_static_variables.mk" clean

@@ -2,18 +2,24 @@
 <CodeLite_Workspace Name="7_functions" Database="" Version="10000" SWTLW="Yes">
   <WorkspaceParserMacros/>
   <WorkspaceParserPaths/>
-  <Project Name="1_basics" Path="1_basics/1_basics.project" Active="Yes"/>
+  <Project Name="1_basics" Path="1_basics/1_basics.project" Active="No"/>
   <Project Name="2_function_prototypes" Path="2_function_prototypes/2_function_prototypes.project" Active="No"/>
+  <Project Name="3_pass_be_referance" Path="3_pass_be_referance/3_pass_be_referance.project" Active="No"/>
+  <Project Name="4_scope_and_static_variables" Path="4_scope_and_static_variables/4_scope_and_static_variables.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="1_basics" ConfigName="Debug"/>
       <Project Name="2_function_prototypes" ConfigName="Debug"/>
+      <Project Name="3_pass_be_referance" ConfigName="Debug"/>
+      <Project Name="4_scope_and_static_variables" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="1_basics" ConfigName="Release"/>
       <Project Name="2_function_prototypes" ConfigName="Release"/>
+      <Project Name="3_pass_be_referance" ConfigName="Release"/>
+      <Project Name="4_scope_and_static_variables" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

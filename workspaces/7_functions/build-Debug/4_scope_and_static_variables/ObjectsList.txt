@@ -1,0 +1,1 @@
+../build-Debug/4_scope_and_static_variables/main.cpp.o

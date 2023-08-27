@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="9_pointers_and_referance" Database="" Version="10000" SWTLW="Yes">
+  <WorkspaceParserMacros/>
+  <WorkspaceParserPaths/>
+  <Project Name="1_basics" Path="1_basics/1_basics.project" Active="No"/>
+  <Project Name="2_dereferencing_pointers" Path="2_dereferencing_pointers/2_dereferencing_pointers.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="1_basics" ConfigName="Debug"/>
+      <Project Name="2_dereferencing_pointers" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="1_basics" ConfigName="Release"/>
+      <Project Name="2_dereferencing_pointers" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

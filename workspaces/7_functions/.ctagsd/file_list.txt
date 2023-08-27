@@ -1,2 +1,4 @@
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/3_pass_be_referance/main.cpp
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/4_scope_and_static_variables/main.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/2_function_prototypes/main.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/1_basics/main.cpp

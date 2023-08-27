@@ -1,4 +1,12 @@
 [{
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/3_pass_be_referance/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/3_pass_be_referance",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/3_pass_be_referance/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/3_pass_be_referance/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/4_scope_and_static_variables/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/4_scope_and_static_variables",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/4_scope_and_static_variables/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/4_scope_and_static_variables/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }, {
   "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/2_function_prototypes/main.cpp",
   "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/2_function_prototypes",
   "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/2_function_prototypes/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/7_functions/2_function_prototypes/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
