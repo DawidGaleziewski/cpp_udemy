@@ -1,0 +1,1 @@
+../build-Debug/6_pointer_and_functions/main.cpp.o

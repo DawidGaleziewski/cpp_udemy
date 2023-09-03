@@ -1,4 +1,8 @@
 [{
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/6_pointer_and_functions/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/6_pointer_and_functions",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/6_pointer_and_functions/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/6_pointer_and_functions/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }, {
   "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/4_arrays_pointers_and_pointer_arithmetics/main.cpp",
   "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/4_arrays_pointers_and_pointer_arithmetics",
   "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/4_arrays_pointers_and_pointer_arithmetics/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/4_arrays_pointers_and_pointer_arithmetics/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
@@ -6,6 +10,10 @@
   "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/3_dynamic_memory_allocation/main.cpp",
   "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/3_dynamic_memory_allocation",
   "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/3_dynamic_memory_allocation/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/3_dynamic_memory_allocation/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/5_pointers_and_constants/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/5_pointers_and_constants",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/5_pointers_and_constants/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/5_pointers_and_constants/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/2_dereferencing_pointers/main.cpp",
   "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/2_dereferencing_pointers",
