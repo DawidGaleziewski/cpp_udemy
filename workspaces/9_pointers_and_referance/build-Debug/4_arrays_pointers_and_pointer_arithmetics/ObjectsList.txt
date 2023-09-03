@@ -1,0 +1,1 @@
+../build-Debug/4_arrays_pointers_and_pointer_arithmetics/main.cpp.o
