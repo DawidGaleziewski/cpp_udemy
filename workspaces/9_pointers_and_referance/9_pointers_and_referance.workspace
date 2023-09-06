@@ -7,7 +7,8 @@
   <Project Name="3_dynamic_memory_allocation" Path="3_dynamic_memory_allocation/3_dynamic_memory_allocation.project" Active="No"/>
   <Project Name="4_arrays_pointers_and_pointer_arithmetics" Path="4_arrays_pointers_and_pointer_arithmetics/4_arrays_pointers_and_pointer_arithmetics.project" Active="No"/>
   <Project Name="5_pointers_and_constants" Path="5_pointers_and_constants/5_pointers_and_constants.project" Active="No"/>
-  <Project Name="6_pointer_and_functions" Path="6_pointer_and_functions/6_pointer_and_functions.project" Active="Yes"/>
+  <Project Name="6_pointer_and_functions" Path="6_pointer_and_functions/6_pointer_and_functions.project" Active="No"/>
+  <Project Name="7_references" Path="7_references/7_references.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -17,6 +18,7 @@
       <Project Name="4_arrays_pointers_and_pointer_arithmetics" ConfigName="Debug"/>
       <Project Name="5_pointers_and_constants" ConfigName="Debug"/>
       <Project Name="6_pointer_and_functions" ConfigName="Debug"/>
+      <Project Name="7_references" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -26,6 +28,7 @@
       <Project Name="4_arrays_pointers_and_pointer_arithmetics" ConfigName="Release"/>
       <Project Name="5_pointers_and_constants" ConfigName="Release"/>
       <Project Name="6_pointer_and_functions" ConfigName="Release"/>
+      <Project Name="7_references" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
