@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/9_pointers_and_referance.workspace">
-  <int Value="5" Name="m_selectedTab"/>
+  <int Value="6" Name="m_selectedTab"/>
   <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/9_pointers_and_referance.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
@@ -40,8 +40,15 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/6_pointer_and_functions/main.cpp" Name="FileName"/>
-      <int Value="33" Name="FirstVisibleLine"/>
-      <int Value="50" Name="CurrentLine"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/9_pointers_and_referance/7_references/main.cpp" Name="FileName"/>
+      <int Value="1" Name="FirstVisibleLine"/>
+      <int Value="17" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

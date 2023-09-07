@@ -14,6 +14,10 @@ int main(int argc, char **argv)
     int &ref {num}; // under the hood this is a pointer to the same variable
     cout << "ref is: " << ref << endl; // this will print the number, we dont have to derefrenece or anything
     
+    // IMPORTANT value we referance needs to be a l-value and not a r-value (100, "james", etc);
+    //  int &ref2 = 100; // this will throw a error, we cant give a ref to a l-value
+    //same goes for a function, we cant pass func(10) to a interface fun(int &n), we could however pass a referance of a variable holding a int
+    
     // referances are often used in for loops
     vector<string> stooges {"Larry", "Moe", "Curly"};
     for (auto str: stooges){
