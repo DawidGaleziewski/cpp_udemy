@@ -14,7 +14,7 @@ CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=Dawid Gałęziewski
-Date                   :=07/09/2023
+Date                   :=08/09/2023
 CodeLitePath           :=/Users/dawidgaleziewski/.codelite
 MakeDirCommand         :=mkdir -p
 LinkerName             :=g++
@@ -52,7 +52,7 @@ LibPath                := $(LibraryPathSwitch).
 AR       := ar rcus
 CXX      := g++
 CC       := gcc
-CXXFLAGS :=  -gdwarf-2 -O0 -Wall $(Preprocessors)
+CXXFLAGS :=  -gdwarf-2 -O0 -Wall -std=c++17  $(Preprocessors)
 CFLAGS   :=  -gdwarf-2 -O0 -Wall $(Preprocessors)
 ASFLAGS  := 
 AS       := as
