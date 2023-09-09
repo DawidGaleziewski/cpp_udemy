@@ -2,7 +2,7 @@
 <Workspace>
   <WorkspaceParserPaths/>
   <BuildMatrix SelectedConfiguration="Debug"/>
-  <WorkspaceParserFlags flags="12"/>
   <Environment Name="&lt;Use Defaults&gt;"/>
+  <WorkspaceParserFlags flags="12"/>
   <WorkspaceParserMacros/>
 </Workspace>

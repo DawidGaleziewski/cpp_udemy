@@ -1,5 +1,8 @@
 #include <iostream>
+#include "Monster.h" 
+// we should always include .h file. We should NOT include .cpp file
 using namespace std;
+
 
 class Player {
     // by default all members are private in c++!
@@ -42,5 +45,11 @@ int main(int argc, char **argv)
     cout << (*enemy).health << endl; // or just dereference it first and use . notation
     delete enemy; // we have to clear our data as per any dynamically allocated data
         
+        
+    // using impored custom class
+    Monster goblin;
+    goblin.name = "Randy";
+    goblin.set_name("Randy"); // standard setters allso work
+    goblin.attack("Timmy");
 	return 0;
 }

@@ -1,4 +1,16 @@
 [{
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Player.h",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Player.h -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Player.h.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Player.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Player.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Player.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }, {
   "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/1_basic_classes/main.cpp",
   "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/1_basic_classes",
   "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/1_basic_classes/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/1_basic_classes/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"

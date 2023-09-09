@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/10_objects_and_classes.workspace">
-  <int Value="0" Name="m_selectedTab"/>
+  <int Value="5" Name="m_selectedTab"/>
   <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/10_objects_and_classes.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
       <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/1_basic_classes/main.cpp" Name="FileName"/>
+      <int Value="29" Name="FirstVisibleLine"/>
+      <int Value="51" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/1_basic_classes/Monster.h" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="14" Name="CurrentLine"/>
+      <int Value="3" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/1_basic_classes/Monster.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="10" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="13" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Player.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="10" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Player.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

@@ -14,7 +14,7 @@ CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=Dawid Gałęziewski
-Date                   :=08/09/2023
+Date                   :=09/09/2023
 CodeLitePath           :=/Users/dawidgaleziewski/.codelite
 MakeDirCommand         :=mkdir -p
 LinkerName             :=g++
@@ -62,7 +62,7 @@ AS       := as
 ## User defined environment variables
 ##
 CodeLiteDir:=/Applications/codelite.app/Contents/SharedSupport/
-Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
+Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IntermediateDirectory)/Monster.cpp$(ObjectSuffix) 
 
 
 
@@ -97,6 +97,11 @@ $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp
 	$(CXX) $(IncludePCH) $(SourceSwitch) "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/1_basic_classes/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
+
+$(IntermediateDirectory)/Monster.cpp$(ObjectSuffix): Monster.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/1_basic_classes/Monster.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Monster.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/Monster.cpp$(PreprocessSuffix): Monster.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Monster.cpp$(PreprocessSuffix) Monster.cpp
 
 ##
 ## Clean
