@@ -5,8 +5,8 @@
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
       <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/1_basic_classes/main.cpp" Name="FileName"/>
-      <int Value="29" Name="FirstVisibleLine"/>
-      <int Value="51" Name="CurrentLine"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
@@ -27,21 +27,21 @@
     <TabInfo>
       <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="13" Name="CurrentLine"/>
+      <int Value="12" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Player.h" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="10" Name="CurrentLine"/>
+      <int Value="16" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Player.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
+      <int Value="6" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
