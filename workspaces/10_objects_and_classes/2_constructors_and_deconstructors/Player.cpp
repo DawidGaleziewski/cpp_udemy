@@ -54,3 +54,6 @@ Player::Player(const Player &source)
     //shallow copy example
     
 }
+// shallow copy: copy all the member wise atributes. Default copy behaviour used in constructor
+// problem.: pointers are copy only when it comes to the address. The actual content of the constet is not copied
+// if we release the object, the other pointer will be still pointing to this object, which can cause program to crash

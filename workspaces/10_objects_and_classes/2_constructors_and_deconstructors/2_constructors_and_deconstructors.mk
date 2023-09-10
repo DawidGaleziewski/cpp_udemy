@@ -14,7 +14,7 @@ CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=Dawid Gałęziewski
-Date                   :=09/09/2023
+Date                   :=10/09/2023
 CodeLitePath           :=/Users/dawidgaleziewski/.codelite
 MakeDirCommand         :=mkdir -p
 LinkerName             :=g++
@@ -62,7 +62,7 @@ AS       := as
 ## User defined environment variables
 ##
 CodeLiteDir:=/Applications/codelite.app/Contents/SharedSupport/
-Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IntermediateDirectory)/Player.cpp$(ObjectSuffix) 
+Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IntermediateDirectory)/Shallow.cpp$(ObjectSuffix) $(IntermediateDirectory)/Player.cpp$(ObjectSuffix) 
 
 
 
@@ -97,6 +97,11 @@ $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp
 	$(CXX) $(IncludePCH) $(SourceSwitch) "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
+
+$(IntermediateDirectory)/Shallow.cpp$(ObjectSuffix): Shallow.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Shallow.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Shallow.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/Shallow.cpp$(PreprocessSuffix): Shallow.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Shallow.cpp$(PreprocessSuffix) Shallow.cpp
 
 $(IntermediateDirectory)/Player.cpp$(ObjectSuffix): Player.cpp 
 	$(CXX) $(IncludePCH) $(SourceSwitch) "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Player.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Player.cpp$(ObjectSuffix) $(IncludePath)

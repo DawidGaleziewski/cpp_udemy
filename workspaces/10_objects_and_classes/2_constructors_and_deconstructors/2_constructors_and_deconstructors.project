@@ -3,6 +3,10 @@
   <Description/>
   <Dependencies/>
   <VirtualDirectory Name="src">
+    <File Name="DeepCopy.cpp"/>
+    <File Name="DeepCopy.h"/>
+    <File Name="Shallow.cpp"/>
+    <File Name="Shallow.h"/>
     <File Name="Player.cpp"/>
     <File Name="Player.h"/>
     <File Name="main.cpp"/>
