@@ -1,4 +1,16 @@
 [{
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor/Move.h",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor/Move.h -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor/Move.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor/Move.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor/Move.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor/Move.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/main.cpp",
   "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors",
   "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"

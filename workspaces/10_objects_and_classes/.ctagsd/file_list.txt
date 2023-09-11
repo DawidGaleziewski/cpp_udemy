@@ -1,10 +1,13 @@
-/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Shallow.h
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor/Move.cpp
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor/Move.h
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor/main.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/main.cpp
-/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Shallow.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Player.h
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Shallow.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/DeepCopy.cpp
-/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/DeepCopy.h
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Player.cpp
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/DeepCopy.h
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/2_constructors_and_deconstructors/Shallow.h
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/1_basic_classes/main.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/1_basic_classes/Monster.h
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/1_basic_classes/Monster.cpp
