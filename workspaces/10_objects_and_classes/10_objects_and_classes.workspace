@@ -5,18 +5,24 @@
   <Project Name="1_basic_classes" Path="1_basic_classes/1_basic_classes.project" Active="No"/>
   <Project Name="2_constructors_and_deconstructors" Path="2_constructors_and_deconstructors/2_constructors_and_deconstructors.project" Active="Yes"/>
   <Project Name="3_move_constructor" Path="3_move_constructor/3_move_constructor.project"/>
+  <Project Name="4_this_pointer" Path="4_this_pointer/4_this_pointer.project"/>
+  <Project Name="5_const_classes" Path="5_const_classes/5_const_classes.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="1_basic_classes" ConfigName="Debug"/>
       <Project Name="2_constructors_and_deconstructors" ConfigName="Debug"/>
       <Project Name="3_move_constructor" ConfigName="Debug"/>
+      <Project Name="4_this_pointer" ConfigName="Debug"/>
+      <Project Name="5_const_classes" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="1_basic_classes" ConfigName="Release"/>
       <Project Name="2_constructors_and_deconstructors" ConfigName="Release"/>
       <Project Name="3_move_constructor" ConfigName="Release"/>
+      <Project Name="4_this_pointer" ConfigName="Release"/>
+      <Project Name="5_const_classes" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
