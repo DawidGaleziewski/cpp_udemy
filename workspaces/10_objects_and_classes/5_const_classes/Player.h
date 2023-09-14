@@ -7,6 +7,8 @@ using namespace std;
 class Player
 {
 public:
+    static int number_of_players;
+    static int get_number_of_players();
     string name;
     Player();
     ~Player();

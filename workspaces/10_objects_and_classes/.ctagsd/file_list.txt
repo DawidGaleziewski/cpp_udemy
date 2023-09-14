@@ -1,3 +1,6 @@
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice/Human.cpp
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice/Human.h
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice/main.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/5_const_classes/Player.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/5_const_classes/Player.h
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/5_const_classes/main.cpp

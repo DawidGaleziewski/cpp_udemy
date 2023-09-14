@@ -1,4 +1,16 @@
 [{
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice/Human.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice/Human.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice/Human.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice/Human.h",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice/Human.h -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice/Human.h.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall  -std=c++17"
+ }, {
   "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/5_const_classes/main.cpp",
   "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/5_const_classes",
   "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/5_const_classes/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/5_const_classes/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
