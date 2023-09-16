@@ -1,0 +1,3 @@
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/11_opeartor_ocerloading/1_basic_overloading_classes/MyString.h
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/11_opeartor_ocerloading/1_basic_overloading_classes/MyString.cpp
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/11_opeartor_ocerloading/1_basic_overloading_classes/main.cpp

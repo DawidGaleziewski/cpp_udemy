@@ -1,12 +1,13 @@
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice/Human.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice/Human.h
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/practice/main.cpp
-/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/5_const_classes/Player.cpp
-/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/5_const_classes/Player.h
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/5_const_classes/main.cpp
-/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/4_this_pointer/Dog.cpp
-/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/4_this_pointer/Dog.h
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/5_const_classes/Player.h
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/5_const_classes/Player.cpp
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/6_structs/main.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/4_this_pointer/main.cpp
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/4_this_pointer/Dog.h
+/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/4_this_pointer/Dog.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor/main.cpp
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor/Move.h
 /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/3_move_constructor/Move.cpp

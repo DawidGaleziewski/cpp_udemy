@@ -1,0 +1,13 @@
+[{
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/11_opeartor_ocerloading/1_basic_overloading_classes/MyString.h",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/11_opeartor_ocerloading/1_basic_overloading_classes",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/11_opeartor_ocerloading/1_basic_overloading_classes/MyString.h -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/11_opeartor_ocerloading/1_basic_overloading_classes/MyString.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/11_opeartor_ocerloading/1_basic_overloading_classes/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/11_opeartor_ocerloading/1_basic_overloading_classes",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/11_opeartor_ocerloading/1_basic_overloading_classes/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/11_opeartor_ocerloading/1_basic_overloading_classes/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/11_opeartor_ocerloading/1_basic_overloading_classes/MyString.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/11_opeartor_ocerloading/1_basic_overloading_classes",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/11_opeartor_ocerloading/1_basic_overloading_classes/MyString.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/11_opeartor_ocerloading/1_basic_overloading_classes/MyString.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

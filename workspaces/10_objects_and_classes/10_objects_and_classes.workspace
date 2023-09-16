@@ -6,8 +6,9 @@
   <Project Name="2_constructors_and_deconstructors" Path="2_constructors_and_deconstructors/2_constructors_and_deconstructors.project" Active="No"/>
   <Project Name="3_move_constructor" Path="3_move_constructor/3_move_constructor.project" Active="No"/>
   <Project Name="4_this_pointer" Path="4_this_pointer/4_this_pointer.project" Active="No"/>
-  <Project Name="5_const_classes" Path="5_const_classes/5_const_classes.project" Active="No"/>
-  <Project Name="practice" Path="practice/practice.project" Active="Yes"/>
+  <Project Name="5_const_classes_and_static_members" Path="5_const_classes/5_const_classes.project" Active="Yes"/>
+  <Project Name="practice" Path="practice/practice.project" Active="No"/>
+  <Project Name="6_structs" Path="6_structs/6_structs.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -15,8 +16,9 @@
       <Project Name="2_constructors_and_deconstructors" ConfigName="Debug"/>
       <Project Name="3_move_constructor" ConfigName="Debug"/>
       <Project Name="4_this_pointer" ConfigName="Debug"/>
-      <Project Name="5_const_classes" ConfigName="Debug"/>
+      <Project Name="5_const_classes_and_static_members" ConfigName="Debug"/>
       <Project Name="practice" ConfigName="Debug"/>
+      <Project Name="6_structs" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -24,8 +26,9 @@
       <Project Name="2_constructors_and_deconstructors" ConfigName="Release"/>
       <Project Name="3_move_constructor" ConfigName="Release"/>
       <Project Name="4_this_pointer" ConfigName="Release"/>
-      <Project Name="5_const_classes" ConfigName="Release"/>
+      <Project Name="5_const_classes_and_static_members" ConfigName="Release"/>
       <Project Name="practice" ConfigName="Release"/>
+      <Project Name="6_structs" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

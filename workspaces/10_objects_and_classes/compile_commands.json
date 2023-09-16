@@ -23,6 +23,10 @@
   "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/5_const_classes",
   "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/5_const_classes/Player.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/5_const_classes/Player.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
+  "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/6_structs/main.cpp",
+  "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/6_structs",
+  "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/6_structs/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/6_structs/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/4_this_pointer/main.cpp",
   "directory": "/Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/4_this_pointer",
   "command": "clang++ -c /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/4_this_pointer/main.cpp -o /Users/dawidgaleziewski/Desktop/cpp_udemy/workspaces/10_objects_and_classes/4_this_pointer/main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
