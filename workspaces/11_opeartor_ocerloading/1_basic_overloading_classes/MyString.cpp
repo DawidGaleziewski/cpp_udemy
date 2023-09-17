@@ -47,3 +47,20 @@ int MyString::get_length() const {
 
 // string getter
 const char *MyString::get_str() const{return str;}
+
+// ovearloading a copy assigment operator. NOT THE SAME AS INITIALIZATION operator MyString s2 = 2 - this is not assigment!. s2 =2 <- this is a assigment
+// c++ has default way of assigment. Similar to default copy constructor it will shallow copy
+MyString &MyString::operator=(const MyString &rhs){
+    // THIS pointer will refer to left hand value of the operation, or the first operand
+    // rhs passed to the method is a righ hand side value
+    if(this == &rhs){ // we check if we do a self assigment. so i.e p1 = p1; We dont want to do much in this case. Guard from this
+        return *this;
+    }
+    
+    // this object will be overrwitten. We need to dealocate anything that it refers to on the heap. Otherwise if we would copy the data, we would orphan the old memory and end up with memory leak
+    delete [] str;
+    str = new char[std::strlen(rhs.str) + 1]; // we allocate space in the left hand side object to the right side object data. We just allocate same ammount of space that the old one took
+    std::strcpy(str, rhs.str); // copy data from the left to the right side. Ending in fresh deep copy of our data
+    return *this;
+}
+// behind the scenes s2=2 will be converted to s2.operator=(2)
